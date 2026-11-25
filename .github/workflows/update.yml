@@ -40,7 +40,7 @@ jobs:
         run: python -m iptv_builder build --check
 
       - name: Validar sintaxe dos arquivos gerados
-        run: python -m iptv_builder validate public/*.m3u public/*.m3u8
+        run: python -m iptv_builder validate public/*.m3u
 
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

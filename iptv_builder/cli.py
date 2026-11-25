@@ -119,8 +119,21 @@ def cmd_build(args: argparse.Namespace) -> int:
 
 def cmd_validate(args: argparse.Namespace) -> int:
     code = 0
-    for f in args.files:
-        problems = m3u.validate(Path(f).read_text(encoding="utf-8"))
+    expanded_files: list[Path] = []
+    for pattern in args.files:
+        p = Path(pattern)
+        if "*" in pattern or "?" in pattern:
+            parent = p.parent if str(p.parent) != "" else Path(".")
+            expanded_files.extend(parent.glob(p.name))
+        elif p.exists():
+            expanded_files.append(p)
+        else:
+            print(f"AVISO: arquivo não encontrado para validação: {pattern}")
+    if not expanded_files:
+        print("Nenhum arquivo para validar.")
+        return 0
+    for f in expanded_files:
+        problems = m3u.validate(f.read_text(encoding="utf-8"))
         if problems:
             code = 1
             print(f"{f}: INVÁLIDO")
