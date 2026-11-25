@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="mi.tv" site_id="ar#24-7-canal-de-noticias" lang="es" xmltv_id="247CanaldeNoticias.ar@SD">24/7 Canal de Noticias</channel>
+  <channel site="chaines-tv.orange.fr" site_id="90437" lang="fr" xmltv_id="24Horas.es@SD">24 Horas</channel>
+  <channel site="cableplus.com.uy" site_id="343" lang="es" xmltv_id="A24.ar@SD">A24</channel>
+  <channel site="i.mjh.nz" site_id="au/Sydney/epg#mjh-abc-news" lang="en" xmltv_id="ABCNews.au@Sydney">ABC News</channel>
+  <channel site="epg.iptvx.one" site_id="abc-news-live-us" lang="ru" xmltv_id="ABCNewsLive.us@SD">ABC News Live</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ABP_NEWS" lang="en" xmltv_id="ABPNews.in@SD">ABP News</channel>
+  <channel site="mi.tv" site_id="pe#atv-1" lang="es" xmltv_id="ATVPlus.pe@SD">ATV+</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6151d74593dbf246f0843f01" lang="en" xmltv_id="AccuWeatherNOW.us@SD">AccuWeather NOW</channel>
+  <channel site="i.mjh.nz" site_id="Plex/es#643054b1fc3be59477853717-682510ec0f741b077c360512" lang="es" xmltv_id="Actualidad360.es@SD">Actualidad 360</channel>
+  <channel site="distro.tv" site_id="78921" lang="en" xmltv_id="AfricanewsEnglish.fr@SD">Africanews English</channel>
+  <channel site="mi.tv" site_id="br#agromais-hd" lang="pt" xmltv_id="AgroMais.br@SD">AgroMais</channel>
+  <channel site="shahid.mbc.net" site_id="49923569816895" lang="ar" xmltv_id="AlArabiyaEnglish.sa@SD">Al Arabiya English</channel>
+  <channel site="aljazeera.com" site_id="aje#" lang="en" xmltv_id="AlJazeera.qa@English">Al Jazeera (English)</channel>
+  <channel site="guidatv.sky.it" site_id="DTH#5113" lang="en" xmltv_id="AlJazeera.qa@EnglishHD">Al Jazeera (English HD)</channel>
+  <channel site="i.mjh.nz" site_id="Roku/all#d748045d77105901b8e25fcc34aa9e2f" lang="en" xmltv_id="AmericasVoice.us@SD">America's Voice</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5e1f7da4bc7d740009831259" lang="en" xmltv_id="AmericasVoiceNews.us@SD">America's Voice News</channel>
+  <channel site="sky.com" site_id="IT#5298" lang="it" xmltv_id="ArirangTV.kr@HD">Arirang TV (HD)</channel>
+  <channel site="arirang.com" site_id="CH_K" lang="en" xmltv_id="ArirangTV.kr@SD">Arirang TV</channel>
+  <channel site="arirang.com" site_id="CH_Z" lang="en" xmltv_id="ArirangUN.kr@SD">Arirang UN</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#65d92a8c8b24c80008e285c0" lang="en" xmltv_id="BBCNews.uk@Africa">BBC News (Africa)</channel>
+  <channel site="canalplus.com" site_id="#589" lang="en" xmltv_id="BBCNews.uk@Europe">BBC News (Europe)</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-646fab0e43d6d6838db81a6a" lang="en" xmltv_id="BBCNews.uk@NorthAmerica">BBC News (North America)</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_BBC_NEWS" lang="en" xmltv_id="BBCNews.uk@SouthAsia">BBC News (South Asia)</channel>
+  <channel site="sky.com" site_id="GB#2085" lang="en" xmltv_id="BBCNews.uk@UKHD">BBC News (UK HD)</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/br#666c9c60a7efd40008f552f0" lang="pt" xmltv_id="BMCNews.br@SD">BM&amp;C News</channel>
+  <channel site="meuguia.tv" site_id="NEW" lang="pt" xmltv_id="BandNews.br@SD">BandNews</channel>
+  <channel site="m.tv.sms.cz" site_id="TV+Bialorus" lang="pl" xmltv_id="Belarus24.by@SD">Belarus-24</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_BHARAT_EXPRESS" lang="en" xmltv_id="BharatExpress.in@SD">Bharat Express</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5e46fba0c43b0d00096e5ac1" lang="en" xmltv_id="BlazeLive.us@SD">Blaze Live</channel>
+  <channel site="gatotv.com" site_id="canal_9_noticias_paraguay" lang="es" xmltv_id="C9N.py@SD">C9N</channel>
+  <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-64c91830ea7db2f52688c52c" lang="en" xmltv_id="CBCNewsNetwork.ca@SD">CBC News Network</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6571f43a1d2aae780d597196" lang="en" xmltv_id="CBSNews247.us@SD">CBS News 24/7</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#60f75919718aed0007250d7a" lang="en" xmltv_id="CBSNewsBaltimore.us@SD">CBS News Baltimore</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5eb1afb21486df0007abc57c" lang="en" xmltv_id="CBSNewsBayArea.us@SD">CBS News Bay Area</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5eb1af2ad345340008fccd1e" lang="en" xmltv_id="CBSNewsBoston.us@SD">CBS News Boston</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5eb1aeb2fd4b8a00076c2047" lang="en" xmltv_id="CBSNewsChicago.us@SD">CBS News Chicago</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5eb1b12146cba40007aa7e5d" lang="en" xmltv_id="CBSNewsColorado.us@SD">CBS News Colorado</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#634f2610d5023700078f7dee" lang="en" xmltv_id="CBSNewsDetroit.us@SD">CBS News Detroit</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5dc481cda1d430000948a1b4" lang="en" xmltv_id="CBSNewsLosAngeles.us@SD">CBS News Los Angeles</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#60fb299b79498900070b29e0" lang="en" xmltv_id="CBSNewsMiami.us@SD">CBS News Miami</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5eb1b0bf2240d8000732a09c" lang="en" xmltv_id="CBSNewsMinnesota.us@SD">CBS News Minnesota</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5dc48170e280c80009a861ab" lang="en" xmltv_id="CBSNewsNewYork.us@SD">CBS News New York</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5eb1b05ea168cc000767ba67" lang="en" xmltv_id="CBSNewsPhilly.us@SD">CBS News Philly</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5eb1b17aa5277e00083f6521" lang="en" xmltv_id="CBSNewsPittsburgh.us@SD">CBS News Pittsburgh</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#60cb6df2b2ad610008cd5bea" lang="en" xmltv_id="CBSNewsSacramento.us@SD">CBS News Sacramento</channel>
+  <channel site="content.astro.com.my" site_id="426" lang="en" xmltv_id="CGTN.cn@SD">CGTN</channel>
+  <channel site="distro.tv" site_id="95229" lang="en" xmltv_id="CGTNSpanish.cn@SD">CGTN Spanish</channel>
+  <channel site="content.astro.com.my" site_id="295" lang="en" xmltv_id="CNA.sg@SD">CNA</channel>
+  <channel site="mytvsuper.com" site_id="CCNA" lang="en" xmltv_id="CNAInternational.sg@SD">CNA International</channel>
+  <channel site="mytelly.co.uk" site_id="1511/cnbc-uk" lang="en" xmltv_id="CNBCUK.uk@SD">CNBC UK</channel>
+  <channel site="i.mjh.nz" site_id="Flash/epg#cnn" lang="en" xmltv_id="CNN.us@SD">CNN</channel>
+  <channel site="mi.tv" site_id="br#cnn-brasil" lang="pt" xmltv_id="CNNBrasil.br@SD">CNN Brasil</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-66b4fcc2530e39ea2ee79545" lang="en" xmltv_id="CNNHeadlines.us@SD">CNN Headlines</channel>
+  <channel site="directv.com.uy" site_id="706#CNNI" lang="es" xmltv_id="CNNInternational.us@LatinAmerica">CNN International (Latin America)</channel>
+  <channel site="tvhebdo.com" site_id="cnn/CNN" lang="fr" xmltv_id="CNNInternational.us@NorthAmerica">CNN International (North America)</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_CNN_NEWS18" lang="en" xmltv_id="CNNNews18.in@SD">CNN News 18</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-66ad6025cb5d3b7fb5011c2d" lang="en" xmltv_id="CNNOriginals.us@SD">CNN Originals</channel>
+  <channel site="meo.pt" site_id="CNNPT" lang="pt" xmltv_id="CNNPortugal.pt@SD">CNN Portugal</channel>
+  <channel site="cableplus.com.uy" site_id="62" lang="es" xmltv_id="CNNenEspanol.us@SD">CNN en Espanol</channel>
+  <channel site="tvpassport.com" site_id="cp24-cablepulse-24/321" lang="en" xmltv_id="CP24.ca@SD">CP24</channel>
+  <channel site="directv.com.uy" site_id="727#CNOT" lang="es" xmltv_id="Cablenoticias.co@SD">Cablenoticias</channel>
+  <channel site="cableplus.com.uy" site_id="3" lang="es" xmltv_id="Canal26.ar@SD">Canal 26</channel>
+  <channel site="reportv.com.ar" site_id="967" lang="es" xmltv_id="CanalI.ve@SD">Canal I</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2169" lang="es" xmltv_id="CanalN.pe@SD">Canal N</channel>
+  <channel site="mytelly.co.uk" site_id="2003/channels-24" lang="en" xmltv_id="Channels24.ng@SD">Channels 24</channel>
+  <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5f6b8e5900b0950040d0f2af" lang="en" xmltv_id="CheddarNews.us@SD">Cheddar News</channel>
+  <channel site="dishtv.in" site_id="142794" lang="en" xmltv_id="DDMizoram.in@SD">DD Mizoram</channel>
+  <channel site="chaines-tv.orange.fr" site_id="61" lang="fr" xmltv_id="DW.de@English">DW (English)</channel>
+  <channel site="anteltv.com.uy" site_id="2s689" lang="es" xmltv_id="DW.de@Espanol">DW (Espanol)</channel>
+  <channel site="elcinema.com" site_id="1385" lang="ar" xmltv_id="DijlahTV.iq@SD">Dijlah TV</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6578bb741a12778a8550d158" lang="en" xmltv_id="EntertainmentTonight.us@SD">Entertainment Tonight</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-60089d97f682a3002c34829b" lang="en" xmltv_id="EstrellaNews.us@SD">Estrella News</channel>
+  <channel site="pickx.be" site_id="UID2488" lang="en" xmltv_id="EuronewsEnglish.fr@HD">Euronews English (HD)</channel>
+  <channel site="bein.com" site_id="entertainment#27" lang="en" xmltv_id="EuronewsEnglish.fr@SD">Euronews English</channel>
+  <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-6245cd154f27f4e9c76d67e9" lang="en" xmltv_id="EuronewsPortuguese.fr@SD">Euronews Portuguese</channel>
+  <channel site="distro.tv" site_id="45144" lang="en" xmltv_id="EuronewsSpanish.fr@SD">Euronews Spanish</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6311" lang="es" xmltv_id="ExitosaTV.pe@SD">Exitosa TV</channel>
+  <channel site="epg.iptvx.one" site_id="fox-news-us" lang="ru" xmltv_id="FoxNewsChannel.us@SD">Fox News Channel</channel>
+  <channel site="foxtel.com.au" site_id="Fox-Sports-News/FSN" lang="en" xmltv_id="FoxSportsNews.au@SD">Fox Sports News</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" lang="en" xmltv_id="FoxWeather.us@SD">Fox Weather</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_FRANCE_24" lang="en" xmltv_id="France24.fr@English">France 24 (English)</channel>
+  <channel site="guidatv.sky.it" site_id="DTH#7968" lang="en" xmltv_id="France24.fr@EnglishHD">France 24 (English HD)</channel>
+  <channel site="cableplus.com.uy" site_id="4124" lang="es" xmltv_id="France24.fr@Spanish">France 24 (Spanish)</channel>
+  <channel site="tvtv.us" site_id="16220" lang="en" xmltv_id="FreeSpeechTV.us@SD">Free Speech TV</channel>
+  <channel site="freeview.co.uk" site_id="64257#27360" lang="en" xmltv_id="GBNews.uk@SD">GB News</channel>
+  <channel site="meuguia.tv" site_id="GNT" lang="pt" xmltv_id="GNT.br@SD">GNT</channel>
+  <channel site="meuguia.tv" site_id="GLN" lang="pt" xmltv_id="GloboNews.br@SD">GloboNews</channel>
+  <channel site="gatotv.com" site_id="guatevision" lang="es" xmltv_id="Guatevision.gt@SD">Guatevision</channel>
+  <channel site="mi.tv" site_id="hn#hch-hable-como-habla" lang="es" xmltv_id="HCH.hn@SD">HCH</channel>
+  <channel site="gatotv.com" site_id="hln" lang="es" xmltv_id="HLN.us@SD">HLN</channel>
+  <channel site="mi.tv" site_id="ar#hispan-tv" lang="es" xmltv_id="HispanTV.ir@SD">Hispan TV</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBC2400015DO" lang="en" xmltv_id="HollyWire.us@SD">HollyWire</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_HORNBILL" lang="en" xmltv_id="HornbillTV.in@SD">Hornbill TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_INDIA_AHEAD" lang="en" xmltv_id="IndiaAhead.in@SD">India Ahead</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_INDIA_TODAY" lang="en" xmltv_id="IndiaToday.in@SD">India Today</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/br#6317ba014d4d040007227f72" lang="pt" xmltv_id="JovemPanNews.br@SD">Jovem Pan News</channel>
+  <channel site="sat.tv" site_id="1#38#دولة الكويت - الثانية" lang="ar" xmltv_id="KTV2.kw@SD">KTV 2</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6377ea0e13bb6b1757e14695" lang="en" xmltv_id="LiveNOWfromFOX.us@SD">LiveNOW from FOX</channel>
+  <channel site="i.mjh.nz" site_id="Flash/epg#msnbc" lang="en" xmltv_id="MSNOW.us@SD">MS NOW</channel>
+  <channel site="gatotv.com" site_id="milenio_tv" lang="es" xmltv_id="MilenioTelevision.mx@SD">Milenio Television</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MIRROR_NOW" lang="en" xmltv_id="MirrorNow.in@SD">Mirror Now</channel>
+  <channel site="i.mjh.nz" site_id="Flash/epg#nbc-news-now" lang="en" xmltv_id="NBCNewsNOW.us@SD">NBC News NOW</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NDTV_24X7" lang="en" xmltv_id="NDTV24x7.in@SD">NDTV 24x7</channel>
+  <channel site="mytelly.co.uk" site_id="1646/nhk-world-hd" lang="en" xmltv_id="NHKWorldJapan.jp@HD">NHK World-Japan (HD)</channel>
+  <channel site="canalplus.com" site_id="#654" lang="en" xmltv_id="NHKWorldJapan.jp@SD">NHK World-Japan</channel>
+  <channel site="directv.com.uy" site_id="725#NT24" lang="es" xmltv_id="NTN24.co@SD">NTN24</channel>
+  <channel site="tvtv.us" site_id="18580" lang="en" xmltv_id="News12Bronx.us@SD">News12 Bronx</channel>
+  <channel site="tvtv.us" site_id="46292" lang="en" xmltv_id="News12Brooklyn.us@SD">News12 Brooklyn</channel>
+  <channel site="tvtv.us" site_id="27512" lang="en" xmltv_id="News12Conneticut.us@SD">News12 Conneticut</channel>
+  <channel site="tvtv.us" site_id="46640" lang="en" xmltv_id="News12HudsonValley.us@SD">News12 Hudson Valley</channel>
+  <channel site="tvtv.us" site_id="10999" lang="en" xmltv_id="News12LongIsland.us@SD">News12 Long Island</channel>
+  <channel site="tvtv.us" site_id="16143" lang="en" xmltv_id="News12NewJersey.us@SD">News12 New Jersey</channel>
+  <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5fc6f3a62b6f7b002e77ffaa" lang="en" xmltv_id="News12NewYork.us@SD">News12 New York</channel>
+  <channel site="tvtv.us" site_id="12309" lang="en" xmltv_id="News12Westchester.us@SD">News12 Westchester</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS18_ASSAM_NORTHSYMHYPEAST" lang="en" xmltv_id="News18AssamNorthEast.in@SD">News18 Assam North-East</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS9" lang="en" xmltv_id="News9Live.in@SD">News9Live</channel>
+  <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-66bfb2e6144c201b8b61c10f" lang="en" xmltv_id="NewsWorld.hk@FAST">NewsWorld</channel>
+  <channel site="dishtv.in" site_id="143624" lang="en" xmltv_id="NewsX.in@SD">NewsX</channel>
+  <channel site="tataplay.com" site_id="1487" lang="en" xmltv_id="NewsXWorld.in@HD">NewsX World</channel>
+  <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-5fb81660b7ad2d002dcb7335" lang="en" xmltv_id="Newsmax2.us@SD">Newsmax 2</channel>
+  <channel site="distro.tv" site_id="27440" lang="en" xmltv_id="NewsmaxTV.us@SD">Newsmax TV</channel>
+  <channel site="tvtv.us" site_id="96827" lang="en" xmltv_id="Newsy.us@SD">Newsy</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NORTH_EAST_LIVE" lang="en" xmltv_id="NortheastLive.in@HD">Northeast Live</channel>
+  <channel site="i.mjh.nz" site_id="Plex/es#643054b1fc3be59477853717-67e6979de1de65be88aeb39f" lang="es" xmltv_id="NoticiasRCN.co@SD">Noticias RCN</channel>
+  <channel site="distro.tv" site_id="34008" lang="en" xmltv_id="OANPlus.us@SD">OAN Plus</channel>
+  <channel site="tvpassport.com" site_id="one-america-news-network/12614" lang="en" xmltv_id="OneAmericaNewsNetwork.us@SD">One America News Network</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/br#6102e04e9ab1db0007a980a1" lang="pt" xmltv_id="PlutoTVRecordNews.us@BR">Pluto TV Record News</channel>
+  <channel site="sat.tv" site_id="1#33#Press TV HD" lang="en" xmltv_id="PressTV.ir@SD">Press TV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2212" lang="es" xmltv_id="RPPTV.pe@SD">RPP TV</channel>
+  <channel site="tv.mail.ru" site_id="2731" lang="ru" xmltv_id="RT.ru@HD">RT (HD)</channel>
+  <channel site="cubmu.com" site_id="260" lang="id" xmltv_id="RT.ru@SD">RT</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_RT" lang="en" xmltv_id="RTIndia.in@HD">RT India</channel>
+  <channel site="cableplus.com.uy" site_id="1502" lang="es" xmltv_id="RTenEspanol.ru@SD">RT en Espanol</channel>
+  <channel site="chaines-tv.orange.fr" site_id="90445" lang="fr" xmltv_id="RecordNews.br@SD">Record News</channel>
+  <channel site="siba.com.co" site_id="421" lang="es" xmltv_id="RedPlus.co@SD">Red+</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_REPUBLIC_TV" lang="en" xmltv_id="RepublicTV.in@SD">Republic TV</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-5fc705dda2236e002d69f211" lang="en" xmltv_id="ScrippsNews.us@SD">Scripps News</channel>
+  <channel site="sky.com" site_id="GB#1406" lang="en" xmltv_id="SkyNews.ie@SD">Sky News</channel>
+  <channel site="i.mjh.nz" site_id="Flash/epg#sky-news-weather" lang="en" xmltv_id="SkyNewsWeather.uk@SD">Sky News Weather</channel>
+  <channel site="directv.com.uy" site_id="716#TNOT" lang="es" xmltv_id="TN.ar@SD">TN</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd39" lang="en" xmltv_id="TODAYAllDay.us@SD">TODAY All Day</channel>
+  <channel site="mytelly.co.uk" site_id="2083/trt-world-hd" lang="en" xmltv_id="TRTWorld.tr@HD">TRT World (HD)</channel>
+  <channel site="chaines-tv.orange.fr" site_id="90246" lang="fr" xmltv_id="TRTWorld.tr@SD">TRT World</channel>
+  <channel site="gatotv.com" site_id="tsi_honduras" lang="es" xmltv_id="TSi.hn@SD">TSi</channel>
+  <channel site="epg.iptvx.one" site_id="tvp-world" lang="ru" xmltv_id="TVPWorld.pl@SD">TVP World</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2214" lang="es" xmltv_id="TVPeruNoticias.pe@SD">TV Peru Noticias</channel>
+  <channel site="anteltv.com.uy" site_id="2s68c" lang="es" xmltv_id="Telesur.ve@SD">Telesur</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5d486acc34ceb37d3c458a64" lang="en" xmltv_id="TheFirstTV.us@SD">The First TV</channel>
+  <channel site="tvguide.com" site_id="9233013815" lang="en" xmltv_id="TheWeatherChannel.us@SD">The Weather Channel</channel>
+  <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-687e844aaea985ecb41312f3" lang="en" xmltv_id="TheWeatherNetwork.ca@SD">The Weather Network</channel>
+  <channel site="watch.whaletvplus.com" site_id="999420644834214632" lang="en" xmltv_id="Trailers.es@UK">Trailers (UK)</channel>
+  <channel site="i.mjh.nz" site_id="Flash/epg#usa-today" lang="en" xmltv_id="USATODAY.us@SD">USA TODAY</channel>
+  <channel site="gatotv.com" site_id="unicanal" lang="es" xmltv_id="Unicanal.py@SD">Unicanal</channel>
+  <channel site="tvpassport.com" site_id="abc-wfts-tampa-bay-fl-hd/5719" lang="en" xmltv_id="WFTSTV321.us@HD">WFTS-TV 32.1</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_WION" lang="en" xmltv_id="WION.in@SD">WION</channel>
+  <channel site="tvpassport.com" site_id="abc-wplg-miami-fl-hd/5722" lang="en" xmltv_id="WPLG101.us@HD">WPLG 10.1</channel>
+  <channel site="i.mjh.nz" site_id="Roku/all#a1e38b83ae2a56f09f4d2ee8ed206b35" lang="en" xmltv_id="WeatherNation.us@SD">WeatherNation</channel>
+  <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-5f0ff266d71dcb00449ec030" lang="en" xmltv_id="WeatherSpy.us@SD">WeatherSpy</channel>
+  <channel site="i.mjh.nz" site_id="Flash/epg#i24-news" lang="en" xmltv_id="i24NEWSEnglishWorld.il@SD">i24NEWS English World</channel>
+  <channel site="i.mjh.nz" site_id="Flash/epg#ticker-news" lang="en" xmltv_id="tickerNews.au@SD">ticker News</channel>
+</channels>

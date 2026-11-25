@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-11-24 23:12",
+  "playlists": [
+    {
+      "name": "brasil",
+      "file": "brasil.m3u",
+      "channels": 136,
+      "epg_coverage": "51/136",
+      "descartados": {
+        "sem_canal": 2434,
+        "exige_headers": 1282,
+        "canal_encerrado": 91,
+        "url_invalida": 15,
+        "nsfw": 3,
+        "offline": 206
+      },
+      "prioritarios_ausentes": []
+    }
+  ]
+}

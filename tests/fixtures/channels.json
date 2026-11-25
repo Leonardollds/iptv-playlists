@@ -1,0 +1,14 @@
+[
+  {"id": "GloboNews.br", "name": "GloboNews", "country": "BR", "categories": ["news"], "is_nsfw": false, "closed": null},
+  {"id": "TVBrasil.br", "name": "TV Brasil", "country": "BR", "categories": ["general"], "is_nsfw": false, "closed": null},
+  {"id": "GeoTV.br", "name": "Geo TV", "country": "BR", "categories": ["news"], "is_nsfw": false, "closed": null},
+  {"id": "Adulto.br", "name": "Adulto", "country": "BR", "categories": ["xxx"], "is_nsfw": true, "closed": null},
+  {"id": "RTP1.pt", "name": "RTP 1", "country": "PT", "categories": ["general"], "is_nsfw": false, "closed": null},
+  {"id": "CNN.us", "name": "CNN, The \"News\" Channel", "country": "US", "categories": ["news"], "is_nsfw": false, "closed": null},
+  {"id": "DupA.br", "name": "Dup A", "country": "BR", "categories": ["music"], "is_nsfw": false, "closed": null},
+  {"id": "DupB.br", "name": "Dup B", "country": "BR", "categories": ["music"], "is_nsfw": false, "closed": null},
+  {"id": "Antigo.br", "name": "Antigo", "country": "BR", "categories": ["general"], "is_nsfw": false, "closed": "2020-01-01"},
+  {"id": "Regional.br", "name": "Regional", "country": "BR", "categories": [], "is_nsfw": false, "closed": null},
+  {"id": "Esporte.br", "name": "Esporte", "country": "BR", "categories": ["sports"], "is_nsfw": false, "closed": null}
+]
+

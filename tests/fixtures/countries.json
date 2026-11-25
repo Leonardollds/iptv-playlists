@@ -1,0 +1,6 @@
+[
+  {"code": "BR", "name": "Brazil", "languages": ["por"], "flag": "x"},
+  {"code": "PT", "name": "Portugal", "languages": ["por"], "flag": "x"},
+  {"code": "US", "name": "United States", "languages": ["eng"], "flag": "x"}
+]
+

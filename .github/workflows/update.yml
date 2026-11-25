@@ -1,0 +1,59 @@
+name: Atualizar playlists e publicar
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # a cada 6 horas
+  workflow_dispatch:          # botão "Run workflow" na aba Actions
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Guarda o resultado dos testes de stream entre execuções (evita testar tudo toda vez)
+      - uses: actions/cache@v4
+        with:
+          path: .cache/stream_status.json
+          key: stream-status-${{ github.run_id }}
+          restore-keys: stream-status-
+
+      - name: Testes
+        run: python -m unittest discover -s tests -v
+
+      - name: Gerar playlists (com verificação de streams)
+        run: python -m iptv_builder build --check
+
+      - name: Validar sintaxe dos arquivos gerados
+        run: python -m iptv_builder validate public/*.m3u public/*.m3u8
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
+

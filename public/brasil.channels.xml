@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="meuguia.tv" site_id="AXN" lang="pt" xmltv_id="AXN.br@SD">AXN</channel>
+  <channel site="mi.tv" site_id="br#agromais-hd" lang="pt" xmltv_id="AgroMais.br@SD">AgroMais</channel>
+  <channel site="mi.tv" site_id="br#amazon-sat" lang="pt" xmltv_id="AmazonSat.br@SD">Amazon Sat</channel>
+  <channel site="meuguia.tv" site_id="BQ5" lang="pt" xmltv_id="Arte1.br@SD">Arte 1</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/br#666c9c60a7efd40008f552f0" lang="pt" xmltv_id="BMCNews.br@SD">BM&amp;C News</channel>
+  <channel site="meuguia.tv" site_id="NEW" lang="pt" xmltv_id="BandNews.br@SD">BandNews</channel>
+  <channel site="meuguia.tv" site_id="BSP" lang="pt" xmltv_id="BandSports.br@SD">Band Sports</channel>
+  <channel site="mi.tv" site_id="br#rede-boas-novas" lang="pt" xmltv_id="BoasNovas.br@SD">Boas Novas</channel>
+  <channel site="mi.tv" site_id="br#cnn-brasil" lang="pt" xmltv_id="CNNBrasil.br@SD">CNN Brasil</channel>
+  <channel site="meuguia.tv" site_id="FUT" lang="pt" xmltv_id="CanalFutura.br@SD">Canal Futura</channel>
+  <channel site="meuguia.tv" site_id="RUR" lang="pt" xmltv_id="CanalRural.br@SD">Canal Rural</channel>
+  <channel site="meuguia.tv" site_id="BOI" lang="pt" xmltv_id="CanaldoBoi.br@SD">Canal do Boi</channel>
+  <channel site="meuguia.tv" site_id="ESB" lang="pt" xmltv_id="ESPN.br@SD">ESPN</channel>
+  <channel site="mi.tv" site_id="br#fishtv" lang="pt" xmltv_id="FishTV.br@SD">Fish TV</channel>
+  <channel site="meuguia.tv" site_id="GLN" lang="pt" xmltv_id="GloboNews.br@SD">GloboNews</channel>
+  <channel site="mi.tv" site_id="br#history-channel" lang="pt" xmltv_id="History.br@SD">History</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/br#6317ba014d4d040007227f72" lang="pt" xmltv_id="JovemPanNews.br@SD">Jovem Pan News</channel>
+  <channel site="plex.tv" site_id="644874236e1dc0bf5664a674" lang="pt" xmltv_id="MyTimeMovieNetwork.br@SD">MyTime Movie Network</channel>
+  <channel site="mi.tv" site_id="br#rba-tv-hd" lang="pt" xmltv_id="RBATV.br@SD">RBATV</channel>
+  <channel site="chaines-tv.orange.fr" site_id="90445" lang="fr" xmltv_id="RecordNews.br@SD">Record News</channel>
+  <channel site="mi.tv" site_id="br#rede-brasil" lang="pt" xmltv_id="RedeBrasil.br@SD">Rede Brasil</channel>
+  <channel site="mi.tv" site_id="br#cnt-rio-hd" lang="pt" xmltv_id="RedeCNTRiodeJaneiro.br@SD">Rede CNT Rio de Janeiro</channel>
+  <channel site="mi.tv" site_id="br#rede-familia" lang="pt" xmltv_id="RedeFamilia.br@SD">Rede Familia</channel>
+  <channel site="mi.tv" site_id="br#rede-gospel" lang="pt" xmltv_id="RedeGospel.br@SD">Rede Gospel</channel>
+  <channel site="mi.tv" site_id="br#meio-norte" lang="pt" xmltv_id="RedeMeioNorte.br@SD">Rede Meio Norte</channel>
+  <channel site="mi.tv" site_id="br#rede-minas" lang="pt" xmltv_id="RedeMinas.br@SD">Rede Minas</channel>
+  <channel site="mi.tv" site_id="br#rede-seculo-21" lang="pt" xmltv_id="RedeSeculo21.br@SD">Rede Seculo 21</channel>
+  <channel site="meuguia.tv" site_id="RTV" lang="pt" xmltv_id="RedeTV.br@SD">Rede TV! (SD)</channel>
+  <channel site="meuguia.tv" site_id="VDA" lang="pt" xmltv_id="RedeVida.br@SD">Rede Vida</channel>
+  <channel site="mi.tv" site_id="br#sbt" lang="pt" xmltv_id="SBTNacional.br@SD">SBT Nacional</channel>
+  <channel site="mi.tv" site_id="br#sesctv" lang="pt" xmltv_id="SESCTV.br@SD">SESC TV</channel>
+  <channel site="mi.tv" site_id="br#sic-tv" lang="pt" xmltv_id="SICTV.br@SD">SIC TV</channel>
+  <channel site="meuguia.tv" site_id="SET" lang="pt" xmltv_id="SonyChannel.br@SD">Sony Channel</channel>
+  <channel site="mi.tv" site_id="br#tv-a-critica" lang="pt" xmltv_id="TVACritica.br@SD">TV A Critica</channel>
+  <channel site="meuguia.tv" site_id="TAP" lang="pt" xmltv_id="TVAparecida.br@SD">TV Aparecida</channel>
+  <channel site="meuguia.tv" site_id="TED" lang="pt" xmltv_id="TVBrasil.br@SD">TV Brasil</channel>
+  <channel site="meuguia.tv" site_id="CAM" lang="pt" xmltv_id="TVCamara.br@SD">TV Camara</channel>
+  <channel site="meuguia.tv" site_id="CNV" lang="pt" xmltv_id="TVCancaoNova.br@SD">TV Cancao Nova</channel>
+  <channel site="mi.tv" site_id="br#tv-clube" lang="pt" xmltv_id="TVClube.br@SD">TV Clube</channel>
+  <channel site="mi.tv" site_id="br#tve-bahia" lang="pt" xmltv_id="TVEBahia.br@SD">TVE Bahia</channel>
+  <channel site="mi.tv" site_id="br#tve-1" lang="pt" xmltv_id="TVERS.br@SD">TVE RS</channel>
+  <channel site="meuguia.tv" site_id="GAZ" lang="pt" xmltv_id="TVGazeta.br@SD">TV Gazeta</channel>
+  <channel site="mi.tv" site_id="br#globo-brasilia" lang="pt" xmltv_id="TVGloboBrasilia.br@SD">TV Globo Brasilia</channel>
+  <channel site="mi.tv" site_id="br#tv-guara-hd" lang="pt" xmltv_id="TVGuara.br@SD">TV Guara</channel>
+  <channel site="meuguia.tv" site_id="JUS" lang="pt" xmltv_id="TVJustica.br@SD">TV Justica</channel>
+  <channel site="mi.tv" site_id="br#e-parana-hd" lang="pt" xmltv_id="TVParanaTurismo.br@SD">TV Parana Turismo</channel>
+  <channel site="meuguia.tv" site_id="RTB" lang="pt" xmltv_id="TVRaTimBum.br@SD">TV Ra Tim Bum</channel>
+  <channel site="meuguia.tv" site_id="SEN" lang="pt" xmltv_id="TVSenado.br@SD">TV Senado</channel>
+  <channel site="meuguia.tv" site_id="TC2" lang="pt" xmltv_id="TelecineAction.br@SD">Telecine Action</channel>
+  <channel site="meuguia.tv" site_id="TVV" lang="pt" xmltv_id="TerraViva.br@SD">Terra Viva</channel>
+  <channel site="meuguia.tv" site_id="WOO" lang="pt" xmltv_id="WooHoo.br@SD">WooHoo</channel>
+</channels>

@@ -1,0 +1,6 @@
+[
+  {"channel": "GloboNews.br", "feed": null, "in_use": true, "tags": [], "width": 512, "height": 512, "format": "SVG", "url": "https://img.test/globonews.svg"},
+  {"channel": "GloboNews.br", "feed": null, "in_use": true, "tags": [], "width": 200, "height": 200, "format": "PNG", "url": "https://img.test/globonews.png"},
+  {"channel": "RTP1.pt", "feed": null, "in_use": true, "tags": [], "width": 300, "height": 300, "format": "PNG", "url": "https://img.test/rtp1.png"}
+]
+

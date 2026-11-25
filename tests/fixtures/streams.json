@@ -1,0 +1,16 @@
+[
+  {"channel": "GloboNews.br", "feed": null, "title": "GloboNews", "url": "https://exemplo.test/globonews_720.m3u8", "referrer": null, "user_agent": null, "quality": "720p"},
+  {"channel": "GloboNews.br", "feed": null, "title": "GloboNews", "url": "https://exemplo.test/globonews_1080.m3u8", "referrer": null, "user_agent": null, "quality": "1080p"},
+  {"channel": "TVBrasil.br", "feed": null, "title": "TV Brasil", "url": "https://exemplo.test/tvbrasil.m3u8", "referrer": "https://site.test/", "user_agent": null, "quality": "480p"},
+  {"channel": "GeoTV.br", "feed": null, "title": "Geo TV", "url": "https://exemplo.test/geo.m3u8", "referrer": null, "user_agent": null, "quality": "720p", "label": "Geo-blocked"},
+  {"channel": "Adulto.br", "feed": null, "title": "Adulto", "url": "https://exemplo.test/adulto.m3u8", "referrer": null, "user_agent": null, "quality": null},
+  {"channel": "RTP1.pt", "feed": null, "title": "RTP 1", "url": "http://exemplo.test/rtp1.m3u8", "referrer": null, "user_agent": null, "quality": "576p"},
+  {"channel": "CNN.us", "feed": null, "title": "CNN", "url": "https://exemplo.test/cnn.m3u8", "referrer": null, "user_agent": null, "quality": "1080p"},
+  {"channel": "DupA.br", "feed": null, "title": "Dup A", "url": "https://exemplo.test/mesmo.m3u8", "referrer": null, "user_agent": null, "quality": "720p"},
+  {"channel": "DupB.br", "feed": null, "title": "Dup B", "url": "https://exemplo.test/mesmo.m3u8", "referrer": null, "user_agent": null, "quality": "720p"},
+  {"channel": "Antigo.br", "feed": null, "title": "Antigo", "url": "https://exemplo.test/antigo.m3u8", "referrer": null, "user_agent": null, "quality": null},
+  {"channel": "Regional.br", "feed": "SP", "title": "Regional SP", "url": "https://exemplo.test/regional_sp.m3u8", "referrer": null, "user_agent": null, "quality": "720p"},
+  {"channel": "Esporte.br", "feed": null, "title": "Esporte", "url": "rtmp://exemplo.test/esporte", "referrer": null, "user_agent": null, "quality": null},
+  {"channel": null, "feed": null, "title": "Sem canal", "url": "https://exemplo.test/semcanal.m3u8", "referrer": null, "user_agent": null, "quality": null}
+]
+

@@ -1,0 +1,6 @@
+[
+  {"channel": "GloboNews.br", "feed": null, "site": "guia-b.test", "site_id": "10", "site_name": "GloboNews", "lang": "pt"},
+  {"channel": "GloboNews.br", "feed": null, "site": "guia-a.test", "site_id": "20", "site_name": "GloboNews", "lang": "pt"},
+  {"channel": "RTP1.pt", "feed": null, "site": "guia-a.test", "site_id": "RTP1", "site_name": "RTP 1", "lang": "pt"}
+]
+

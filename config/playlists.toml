@@ -1,0 +1,111 @@
+# =====================================================================
+#  Configuração das playlists IPTV
+#  Rode:  python -m iptv_builder build
+#  Códigos úteis:
+#   - países:    ISO 3166-1 alpha-2 (BR, PT, US...)  -> https://iptv-org.github.io/api/countries.json
+#   - idiomas:   ISO 639-3 (por, eng, spa...)         -> https://iptv-org.github.io/api/languages.json
+#   - categorias: animation, auto, business, classic, comedy, cooking, culture,
+#                 documentary, education, entertainment, family, general, kids,
+#                 legislative, lifestyle, movies, music, news, outdoor, relax,
+#                 religious, science, series, shop, sports, travel, weather
+#   - IDs de canais: https://iptv-org.github.io/ (campo "ID", ex.: GloboNews.br)
+# =====================================================================
+
+[settings]
+output_dir = "public"            # pasta publicada (GitHub Pages)
+cache_dir = ".cache"
+cache_max_age_hours = 6          # reaproveita o download da API por X horas
+exclude_nsfw = true              # nunca inclui canais adultos
+exclude_closed = true            # ignora canais que encerraram as transmissões
+exclude_geoblocked = true        # ignora streams marcados como "Geo-blocked"
+allow_header_streams = false     # false = só streams que tocam sem referrer/user-agent especial
+https_only = false               # true = só URLs https (mais compatível com alguns players)
+quality_in_name = false          # true = "Canal [720p]"
+# ordem dos grupos no player (categorias da API); os demais vêm depois em ordem alfabética
+group_order = ["general", "news", "sports", "movies", "series", "entertainment", "kids", "music", "documentary"]
+
+[check]
+enabled = false                  # true = testa se cada stream responde (mais lento, lista mais limpa)
+timeout = 8                      # segundos por stream
+workers = 32                     # testes em paralelo
+ttl_hours = 12                   # lembra que "funciona" por 12h
+retry_failed_hours = 6           # lembra que "falhou" por 6h
+candidates_per_channel = 3       # testa até 3 streams por canal (os de melhor qualidade)
+
+[epg]
+# URL pública do XMLTV com a programação (entra no cabeçalho x-tvg-url).
+# Deixe vazio se ainda não hospedou um guide.xml. Veja docs/EPG.md.
+url = ""
+generate_channels_xml = true     # gera <playlist>.channels.xml para o grabber iptv-org/epg
+preferred_sites = []             # sites de guia preferidos, ex.: ["mi.tv", "directv.com.br"]
+
+# Nomes dos grupos (group-title) em português. O que não estiver aqui usa o nome original.
+[group_names]
+general = "Geral"
+news = "Notícias"
+sports = "Esportes"
+movies = "Filmes"
+series = "Séries"
+entertainment = "Entretenimento"
+kids = "Infantil"
+music = "Música"
+documentary = "Documentários"
+education = "Educação"
+culture = "Cultura"
+religious = "Religioso"
+family = "Família"
+lifestyle = "Estilo de vida"
+comedy = "Comédia"
+science = "Ciência"
+weather = "Clima"
+travel = "Viagem"
+cooking = "Culinária"
+outdoor = "Natureza"
+animation = "Animação"
+auto = "Automotivo"
+business = "Negócios"
+classic = "Clássicos"
+legislative = "Legislativo"
+relax = "Relax"
+shop = "Compras"
+
+# Valores padrão para todas as playlists (cada [[playlist]] pode sobrescrever)
+[defaults]
+max_streams_per_channel = 1
+
+# ---------------------------------------------------------------------
+# Playlist 1: canais do Brasil, com favoritos no topo
+# ---------------------------------------------------------------------
+[[playlist]]
+name = "brasil"
+file = "brasil.m3u"
+countries = ["BR"]
+exclude_categories = ["shop"]
+priority_group = "Favoritos"
+priority_channels = [
+  "GloboNews.br",
+  "TVBrasil.br",
+  "TVCultura.br",
+  "CNNBrasil.br",
+  "BandNews.br",
+]
+
+# ---------------------------------------------------------------------
+# Playlist 2: tudo em português (Brasil, Portugal, Angola...), agrupado por país
+# ---------------------------------------------------------------------
+[[playlist]]
+name = "portugues"
+file = "portugues.m3u"
+languages = ["por"]
+group_by = "country"
+exclude_categories = ["shop"]
+
+# ---------------------------------------------------------------------
+# Playlist 3: notícias e esportes do mundo, em inglês/espanhol/português
+# ---------------------------------------------------------------------
+[[playlist]]
+name = "noticias_mundo"
+file = "noticias_mundo.m3u"
+languages = ["por", "eng", "spa"]
+categories = ["news", "weather"]
+

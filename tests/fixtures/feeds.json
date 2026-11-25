@@ -1,0 +1,9 @@
+[
+  {"channel": "GloboNews.br", "id": "SD", "name": "SD", "is_main": true, "languages": ["por"]},
+  {"channel": "TVBrasil.br", "id": "SD", "name": "SD", "is_main": true, "languages": ["por"]},
+  {"channel": "RTP1.pt", "id": "SD", "name": "SD", "is_main": true, "languages": ["por"]},
+  {"channel": "CNN.us", "id": "SD", "name": "SD", "is_main": true, "languages": ["eng"]},
+  {"channel": "Regional.br", "id": "SD", "name": "SD", "is_main": true, "languages": ["por"]},
+  {"channel": "Regional.br", "id": "SP", "name": "São Paulo", "is_main": false, "languages": ["por"]}
+]
+
